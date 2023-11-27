@@ -1,0 +1,8 @@
+{
+    "blogs": [
+        { "id": 1, "title": "Test Blog 1", "snippet": "Test Snippet 1", "published": "November, 27th - 2023" },
+        { "id": 2, "title": "Test Blog 2", "snippet": "Test Snippet 2", "published": "November, 27th - 2023" },
+        { "id": 3, "title": "Test Blog 3", "snippet": "Test Snippet 3", "published": "November, 27th - 2023" },
+        { "id": 4, "title": "Test Blog 4", "snippet": "Test Snippet 4", "published": "November, 27th - 2023" }
+    ]
+}
