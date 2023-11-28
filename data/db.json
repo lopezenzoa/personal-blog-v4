@@ -1,8 +1,44 @@
 {
     "blogs": [
-        { "id": 1, "title": "Test Blog 1", "snippet": "Test Snippet 1", "published": "November, 27th - 2023" },
-        { "id": 2, "title": "Test Blog 2", "snippet": "Test Snippet 2", "published": "November, 27th - 2023" },
-        { "id": 3, "title": "Test Blog 3", "snippet": "Test Snippet 3", "published": "November, 27th - 2023" },
-        { "id": 4, "title": "Test Blog 4", "snippet": "Test Snippet 4", "published": "November, 27th - 2023" }
+        {
+            "id": 1,
+            "title": "Why reading Silvina Ocampo?",
+            "snippet": "Explaining why it is required to read the Ocampo's literature to understand the human nature behind children and the holy image surrounding them",
+            "published": "November, 28th - 2023",
+            "body": {
+                "paragraph_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Integer malesuada nunc vel risus. Nulla facilisi etiam dignissim diam quis enim lobortis. Ipsum dolor sit amet consectetur adipiscing elit. Amet purus gravida quis blandit turpis. Purus sit amet volutpat consequat mauris. Mattis pellentesque id nibh tortor id aliquet lectus. Dui ut ornare lectus sit amet est placerat in egestas. Id volutpat lacus laoreet non curabitur gravida. Semper eget duis at tellus at urna condimentum mattis. Volutpat maecenas volutpat blandit aliquam etiam erat velit. Mauris pellentesque pulvinar pellentesque habitant morbi tristique. Aliquet risus feugiat in ante metus dictum at. Amet purus gravida quis blandit. Odio pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus. Proin nibh nisl condimentum id.",
+                "paragraph_2": "Vel eros donec ac odio. Neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt. In mollis nunc sed id semper risus in hendrerit gravida. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi. Morbi quis commodo odio aenean sed. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Sem fringilla ut morbi tincidunt augue. Sem integer vitae justo eget magna fermentum iaculis eu non. At ultrices mi tempus imperdiet nulla malesuada pellentesque. Congue quisque egestas diam in arcu cursus euismod quis viverra. Non diam phasellus vestibulum lorem sed risus ultricies. Amet massa vitae tortor condimentum lacinia quis. Vulputate sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum. Sem viverra aliquet eget sit amet tellus cras adipiscing. Cras adipiscing enim eu turpis.",
+                "paragraph_3": "Consectetur lorem donec massa sapien faucibus et. Imperdiet nulla malesuada pellentesque elit eget. Ut etiam sit amet nisl purus. Pulvinar etiam non quam lacus suspendisse. Felis bibendum ut tristique et egestas. Risus pretium quam vulputate dignissim suspendisse in est ante. Faucibus turpis in eu mi bibendum neque. Quis commodo odio aenean sed. Quam adipiscing vitae proin sagittis nisl rhoncus mattis. Turpis egestas sed tempus urna et. Massa id neque aliquam vestibulum morbi blandit cursus. Orci ac auctor augue mauris augue neque gravida in. Cras adipiscing enim eu turpis.",
+                "paragraph_4": "Malesuada fames ac turpis egestas. Diam quam nulla porttitor massa id. Suspendisse ultrices gravida dictum fusce ut placerat orci. Sed risus pretium quam vulputate dignissim suspendisse in. Enim tortor at auctor urna nunc id cursus metus. Suspendisse interdum consectetur libero id faucibus nisl tincidunt eget. Morbi tristique senectus et netus et malesuada fames ac turpis. Diam maecenas sed enim ut sem viverra aliquet eget. Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis. Feugiat vivamus at augue eget arcu dictum varius. Malesuada fames ac turpis egestas. Tellus pellentesque eu tincidunt tortor. Placerat vestibulum lectus mauris ultrices eros in cursus. Donec ultrices tincidunt arcu non sodales neque sodales ut. Feugiat pretium nibh ipsum consequat nisl. At quis risus sed vulputate odio ut enim blandit volutpat.",
+                "paragraph_5": "Scelerisque fermentum dui faucibus in ornare. In vitae turpis massa sed elementum. Dui vivamus arcu felis bibendum ut tristique et egestas. In hac habitasse platea dictumst vestibulum rhoncus est pellentesque. Velit scelerisque in dictum non consectetur. Ultrices dui sapien eget mi proin sed. Odio eu feugiat pretium nibh ipsum consequat. Ac auctor augue mauris augue. Iaculis urna id volutpat lacus laoreet. Eget nunc lobortis mattis aliquam. Pharetra pharetra massa massa ultricies mi quis. Diam vulputate ut pharetra sit amet aliquam id."
+            }
+        },
+        {
+            "id": 2,
+            "title": "Against the pessimism on the future",
+            "snippet": "My humble opinion on what is dangerous a pessimist human and how someone can revert the belief on our specie",
+            "published": "November, 27th - 2023",
+            "body": {
+                "paragraph_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Integer malesuada nunc vel risus. Nulla facilisi etiam dignissim diam quis enim lobortis. Ipsum dolor sit amet consectetur adipiscing elit. Amet purus gravida quis blandit turpis. Purus sit amet volutpat consequat mauris. Mattis pellentesque id nibh tortor id aliquet lectus. Dui ut ornare lectus sit amet est placerat in egestas. Id volutpat lacus laoreet non curabitur gravida. Semper eget duis at tellus at urna condimentum mattis. Volutpat maecenas volutpat blandit aliquam etiam erat velit. Mauris pellentesque pulvinar pellentesque habitant morbi tristique. Aliquet risus feugiat in ante metus dictum at. Amet purus gravida quis blandit. Odio pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus. Proin nibh nisl condimentum id.",
+                "paragraph_2": "Vel eros donec ac odio. Neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt. In mollis nunc sed id semper risus in hendrerit gravida. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi. Morbi quis commodo odio aenean sed. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Sem fringilla ut morbi tincidunt augue. Sem integer vitae justo eget magna fermentum iaculis eu non. At ultrices mi tempus imperdiet nulla malesuada pellentesque. Congue quisque egestas diam in arcu cursus euismod quis viverra. Non diam phasellus vestibulum lorem sed risus ultricies. Amet massa vitae tortor condimentum lacinia quis. Vulputate sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum. Sem viverra aliquet eget sit amet tellus cras adipiscing. Cras adipiscing enim eu turpis.",
+                "paragraph_3": "Consectetur lorem donec massa sapien faucibus et. Imperdiet nulla malesuada pellentesque elit eget. Ut etiam sit amet nisl purus. Pulvinar etiam non quam lacus suspendisse. Felis bibendum ut tristique et egestas. Risus pretium quam vulputate dignissim suspendisse in est ante. Faucibus turpis in eu mi bibendum neque. Quis commodo odio aenean sed. Quam adipiscing vitae proin sagittis nisl rhoncus mattis. Turpis egestas sed tempus urna et. Massa id neque aliquam vestibulum morbi blandit cursus. Orci ac auctor augue mauris augue neque gravida in. Cras adipiscing enim eu turpis.",
+                "paragraph_4": "Malesuada fames ac turpis egestas. Diam quam nulla porttitor massa id. Suspendisse ultrices gravida dictum fusce ut placerat orci. Sed risus pretium quam vulputate dignissim suspendisse in. Enim tortor at auctor urna nunc id cursus metus. Suspendisse interdum consectetur libero id faucibus nisl tincidunt eget. Morbi tristique senectus et netus et malesuada fames ac turpis. Diam maecenas sed enim ut sem viverra aliquet eget. Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis. Feugiat vivamus at augue eget arcu dictum varius. Malesuada fames ac turpis egestas. Tellus pellentesque eu tincidunt tortor. Placerat vestibulum lectus mauris ultrices eros in cursus. Donec ultrices tincidunt arcu non sodales neque sodales ut. Feugiat pretium nibh ipsum consequat nisl. At quis risus sed vulputate odio ut enim blandit volutpat.",
+                "paragraph_5": "Scelerisque fermentum dui faucibus in ornare. In vitae turpis massa sed elementum. Dui vivamus arcu felis bibendum ut tristique et egestas. In hac habitasse platea dictumst vestibulum rhoncus est pellentesque. Velit scelerisque in dictum non consectetur. Ultrices dui sapien eget mi proin sed. Odio eu feugiat pretium nibh ipsum consequat. Ac auctor augue mauris augue. Iaculis urna id volutpat lacus laoreet. Eget nunc lobortis mattis aliquam. Pharetra pharetra massa massa ultricies mi quis. Diam vulputate ut pharetra sit amet aliquam id."
+            }
+        }
+    ],
+    "resources": [
+        {
+            "id": 1,
+            "title": "75 años de la muerte de H.G. Wells, uno de los padres de la ciencia ficción",
+            "type": "Article",
+            "link": "https://ethic.es/2021/08/75-anos-de-la-muerte-de-h-g-wells-uno-de-los-padres-de-la-ciencia-ficcion/"
+        },
+        {
+            "id": 2,
+            "title": "Julio Verne, el escritor visionario",
+            "type": "Article",
+            "link": "https://historia.nationalgeographic.com.es/a/julio-verne-escritor-visionario_13488"
+        }
     ]
 }

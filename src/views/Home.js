@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import useFetch from "../hooks/useFetch";
 import { Link } from "react-router-dom";
 import {
     Card,
@@ -7,30 +7,15 @@ import {
     CardContent,
     Button,
     Typography,
+    CircularProgress,
     Box
 } from '@mui/material';
 
 function HomePage() {
-    const [blogs, setBlogs] = useState(null);
-    const [isPending, setIsPending] = useState(true);
-
-    useEffect(() => {
-        fetch("http://localhost:5000/blogs")
-            .then((res) => res.json())
-            .then((data) => {
-                setBlogs(data);
-                setIsPending(false);
-            });
-    }, []);
+    const { data: blogs, isPending, error } = useFetch("http://localhost:5000/blogs");
 
     return (
         <Container sx={{ marginY: "2rem", minHeight: '100vh' }}>
-            {isPending && (
-                <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                    Loading Blogs...
-                </Typography>
-            )}
-
             {blogs && (
                 <Box>
                     {blogs.map((blog) => (
@@ -54,6 +39,18 @@ function HomePage() {
                         </Card>
                     ))}
                 </Box>
+            )}
+
+            {isPending && (
+                <Box sx={{ flexGrow: 1, textAlign: "center" }}>
+                    <CircularProgress />
+                </Box>
+            )}
+
+            {error && (
+                <Typography color="error" variant="h6" component="div" sx={{ flexGrow: 1 }}>
+                    Oops! There was an error
+                </Typography>
             )}
         </Container>
     );
