@@ -2,8 +2,8 @@
     "blogs": [
         {
             "id": 1,
-            "title": "Why reading Silvina Ocampo?",
-            "snippet": "Explaining why it is required to read the Ocampo's literature to understand the human nature behind children and the holy image surrounding them",
+            "title": "Why believe in future?",
+            "snippet": "Ideas and facts to reinforce the belief in a brighter future for human prosperity",
             "published": "November, 28th - 2023",
             "body": {
                 "paragraph_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Integer malesuada nunc vel risus. Nulla facilisi etiam dignissim diam quis enim lobortis. Ipsum dolor sit amet consectetur adipiscing elit. Amet purus gravida quis blandit turpis. Purus sit amet volutpat consequat mauris. Mattis pellentesque id nibh tortor id aliquet lectus. Dui ut ornare lectus sit amet est placerat in egestas. Id volutpat lacus laoreet non curabitur gravida. Semper eget duis at tellus at urna condimentum mattis. Volutpat maecenas volutpat blandit aliquam etiam erat velit. Mauris pellentesque pulvinar pellentesque habitant morbi tristique. Aliquet risus feugiat in ante metus dictum at. Amet purus gravida quis blandit. Odio pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus. Proin nibh nisl condimentum id.",
@@ -15,8 +15,8 @@
         },
         {
             "id": 2,
-            "title": "Against the pessimism on the future",
-            "snippet": "My humble opinion on what is dangerous a pessimist human and how someone can revert the belief on our specie",
+            "title": "I have a dream",
+            "snippet": "A reflection on the future of Argentina",
             "published": "November, 27th - 2023",
             "body": {
                 "paragraph_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Integer malesuada nunc vel risus. Nulla facilisi etiam dignissim diam quis enim lobortis. Ipsum dolor sit amet consectetur adipiscing elit. Amet purus gravida quis blandit turpis. Purus sit amet volutpat consequat mauris. Mattis pellentesque id nibh tortor id aliquet lectus. Dui ut ornare lectus sit amet est placerat in egestas. Id volutpat lacus laoreet non curabitur gravida. Semper eget duis at tellus at urna condimentum mattis. Volutpat maecenas volutpat blandit aliquam etiam erat velit. Mauris pellentesque pulvinar pellentesque habitant morbi tristique. Aliquet risus feugiat in ante metus dictum at. Amet purus gravida quis blandit. Odio pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus. Proin nibh nisl condimentum id.",
@@ -33,12 +33,6 @@
             "title": "75 años de la muerte de H.G. Wells, uno de los padres de la ciencia ficción",
             "type": "Article",
             "link": "https://ethic.es/2021/08/75-anos-de-la-muerte-de-h-g-wells-uno-de-los-padres-de-la-ciencia-ficcion/"
-        },
-        {
-            "id": 2,
-            "title": "Julio Verne, el escritor visionario",
-            "type": "Article",
-            "link": "https://historia.nationalgeographic.com.es/a/julio-verne-escritor-visionario_13488"
         }
     ]
 }

@@ -20,7 +20,7 @@ function BlogDetails() {
             {blog && (
                 <Box>
                     <Stack direction="row" spacing={2} sx={{ marginBottom: "1.5rem" }}>
-                        <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
+                        <Typography variant="h5" component="div" sx={{ flexGrow: 1 }}>
                             {blog.title}
                         </Typography>
                         <Button variant="text" onClick={() => navigate(-1)}>Go Back</Button>
@@ -30,7 +30,7 @@ function BlogDetails() {
                         {Object.entries(blog.body).map((paragraph) => (
                             <Typography
                                 component="p"
-                                sx={{ marginBottom: "0.5rem", flexGrow: 1 }}
+                                sx={{ marginBottom: "1.5rem", flexGrow: 1 }}
                                 key={paragraph[0]}
                             >
                                 {paragraph[1]}

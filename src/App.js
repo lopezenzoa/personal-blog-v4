@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import AppBar from "./components/AppBar";
 
 // Pages
-import Home from "./views/Home";
+import Blogs from "./views/Blogs";
 import Resources from "./views/Resources";
 import NotFound from "./views/NotFound";
 import BlogDetails from "./views/BlogDetails";
@@ -15,8 +15,7 @@ function App() {
       <AppBar />
 
       <Routes>
-        <Route exact path="/" element={ <Home /> } />
-        <Route exact path="/latest" element={ <Home /> } />
+        <Route exact path="/" element={ <Blogs /> } />
         <Route exact path="/resources" element={ <Resources /> } />
         <Route exact path="/blogs/:id" element={ <BlogDetails /> } />
         <Route path="*" element={ <NotFound /> } />

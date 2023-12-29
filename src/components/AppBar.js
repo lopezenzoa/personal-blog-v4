@@ -6,7 +6,8 @@ import {
     Button,
     Container,
     InputBase,
-    Stack
+    Stack,
+    Typography
 } from "@mui/material";
 import SearchIcon from '@mui/icons-material/Search';
 import { styled, alpha } from '@mui/material/styles';
@@ -67,18 +68,12 @@ export default function MenuAppBar() {
                                         color="inherit"
                                         sx={{ color: "#ffffff" }}
                                     >
-                                        Home
+                                        Blogs
                                     </Button>
                                 </Link>
-                                <Link to="/latest">
-                                    <Button
-                                        variant="text"
-                                        color="inherit"
-                                        sx={{ marginX: "0.5rem", color: "#ffffff" }}
-                                    >
-                                        Latest Blogs
-                                    </Button>
-                                </Link>
+
+                                <Typography component="span" sx={{ flexGrow: 1, marginX: "0.5rem" }}> | </Typography>
+
                                 <Link to="/resources">
                                     <Button
                                         variant="text"
